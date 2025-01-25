@@ -73,7 +73,7 @@ vercel
 
 ## 📞 Contact
 Feel free to connect with me:
-- 🌐 [Portfolio Website](https://junaidali.dev)
+- 🌐 [Portfolio Website](https://preeminent-melba-689237.netlify.app/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/junaid-ali-8679871ab/)
 - 🐙 [GitHub](https://github.com/JunaidAly)
 - 📧 Email: juanidalikhan03@gmail.com
