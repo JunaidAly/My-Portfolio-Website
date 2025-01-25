@@ -13,7 +13,7 @@ export default function About() {
           <div className="flex flex-col items-center">
             <div className="w-60 h-60 rounded-full overflow-hidden border-4 border-blue-500 shadow-md mb-4 hover:scale-110 transition-transform duration-300">
               <img
-                src="src/assets/junaid.jpg"
+                src="/junaid.jpg"
                 alt="Junaid Ali"
                 className="w-full h-full object-cover"
               />
