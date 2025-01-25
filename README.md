@@ -76,7 +76,7 @@ Feel free to connect with me:
 - 🌐 [Portfolio Website](https://junaidali.dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/junaid-ali-8679871ab/)
 - 🐙 [GitHub](https://github.com/JunaidAly)
-- 📧 Email: junaid.ali@example.com
+- 📧 Email: juanidalikhan03@gmail.com
 
 ---
 💻 **Developed by Junaid Ali** | © 2025 All Rights Reserved 🚀
